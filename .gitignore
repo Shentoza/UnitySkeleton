@@ -1,10 +1,11 @@
 # =============== #
-# uFrame          #
+# Unity Plugins   #
 # =============== #
-Assets/uFrameComplete/
+# List them here  #
+# =============== #
 
 # ========= #
-# Git		#
+# Git	    #
 # ========= #
 *.orig
 
@@ -28,7 +29,6 @@ obj/
 *.user
 *.unityproj
 *.booproj
-*/UnityVS/*
 
 # ============ #
 # OS generated #
