@@ -3,6 +3,7 @@
 # =============== #
 # List them here  #
 # =============== #
+# =============== #
 
 
 # ========= #
@@ -14,6 +15,7 @@
 # Unity generated #
 # =============== #
 Temp/
+Library/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
